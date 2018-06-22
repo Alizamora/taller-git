@@ -1,0 +1,21 @@
+/*     Practica de git gub    */
+
+#contenedor {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-top: 100;
+}
+
+img {
+    display: block;
+    margin:center;
+    text-align: center;
+}
